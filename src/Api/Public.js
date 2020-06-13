@@ -1,6 +1,5 @@
 import axios from 'axios';
-//const api = "http://127.0.0.1";
-const api = "http://kfy.daifu100.net/index.php";
+const api = "http://127.0.0.1";
 const myAxios = axios.create({
     //定义公用请求
     baseURL: api,
