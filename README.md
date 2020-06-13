@@ -1,2 +1,2 @@
 # vue
-vue 后台
+vue vuex
